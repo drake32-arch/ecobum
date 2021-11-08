@@ -1,0 +1,8 @@
+prodaja_504
+makulatura_504
+plastik_504
+poddon_504
+"http://basic/web/images/glavn/prodaja_504.png"
+"http://basic/web/images/glavn/makulatura_504.png"
+"http://basic/web/images/glavn/plastik_504.png"
+"http://basic/web/images/glavn/poddon_504.png"
